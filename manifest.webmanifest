@@ -1,0 +1,18 @@
+{
+  "name": "글로벌 비즈니스 영어",
+  "short_name": "비즈니스영어",
+  "description": "해외 본사·글로벌 팀과 일하는 고급 학습자를 위한 회의·스몰토크·뉘앙스·비즈니스 글쓰기 학습 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#183060",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
